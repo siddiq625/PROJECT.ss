@@ -1,4 +1,4 @@
 # PROJECT.ss
 New Project data
 <br>
-Author- Siddiq hassan
+Author- Siddiq hassan (iqra university)
